@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Course solutions
+archive/
+
+# Outputs
+outputs/results/
+outputs/figures/
+
+# OS Files
+.DS_Store
+Thumbs.db
